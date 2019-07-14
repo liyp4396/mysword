@@ -1,0 +1,12 @@
+@charset 'utf-8';
+@import '../lib/hotcss-master/src/px2rem.scss';
+
+$designWidth: 750;
+
+
+.page-bg{
+    width: px2rem(750);
+    height:px2rem(4800);
+    background:url(../img/page-bg.jpg) no-repeat center;
+    background-size: cover;
+}

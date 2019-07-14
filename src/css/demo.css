@@ -1,0 +1,6 @@
+.page-bg {
+  width: 16rem;
+  height: 102.4rem;
+  background: url(../img/page-bg.jpg) no-repeat center;
+  background-size: cover;
+}
